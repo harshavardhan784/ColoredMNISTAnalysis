@@ -1,0 +1,1 @@
+This project analyzes the Colored MNIST dataset, where digits are assigned labels based on manipulation and then colored based on additional probabilistic rules. We compare the performance of different optimizers (SGD, RMSprop, Adam, AdamW, Adagrad) with optimal learning rates on this dataset.
